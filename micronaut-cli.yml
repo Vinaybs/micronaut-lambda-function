@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: micronaut.lambda.function
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, aws-lambda, file-watch, gradle, java, junit, logback, readme, shade, yaml]
